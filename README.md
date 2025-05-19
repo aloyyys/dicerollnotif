@@ -1,6 +1,6 @@
 # diceroll
 
-A new Flutter project.
+A diceroll project from https://github.com/hari73966/flutterApps/tree/main/DiceRollApp, modified with awesome notifications, but it only used default notifications
 
 ## Getting Started
 
