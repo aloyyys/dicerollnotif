@@ -6,10 +6,6 @@ plugins {
 }
 
 android {
-    tasks.withType<JavaCompile> {
-        options.release.set(11) // or 17, depending on your JDK version
-        options.compilerArgs.add("-Xlint:-options")
-    }
     namespace = "com.example.diceroll"
     compileSdk = flutter.compileSdkVersion
     ndkVersion = flutter.ndkVersion
